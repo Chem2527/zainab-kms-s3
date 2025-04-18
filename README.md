@@ -40,7 +40,7 @@
   - zainab (only this user should be able to encrypt/decrypt using the key for now)
 
 ## step 2:  Create an S3 Bucket and Enable Encryption
-- Go to the S3 Console and create a bucket named:   zainab252725
+- Go to the S3 Console and create a bucket named:   **zainab252725**
 
 - During creation:
 
