@@ -46,7 +46,7 @@
 
   - Region: Same as KMS key (e.g., eu-north-1)
 
-  - Uncheck "Block all public access" only if needed for testing (not recommended in prod)
+  - Check "Block all public access"
 
   - Enable default encryption:
 
