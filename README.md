@@ -109,15 +109,15 @@
 
 ## Definitions:
 
-- symmetric: Uses one single key for both encryption and decryption
-- asymmetric: public key for encryption and pvt key  for decryption
-- Key Usage:
+- **symmetric**: Uses one single key for both encryption and decryption
+- **asymmetric**: public key for encryption and pvt key  for decryption
+- **Key Usage**:
     - we are specifying what purpose we are using this key
     - 1.  for encryption and decryption of data
       2.  Generate and Verify the MAC: It ensures that the data remains unchanged by anyone other than the authorized sender
-- Regionality
+- **Regionality**
    - we are specifying whether our key can exist in one region or multiple regions.
- - Key Administrative Permissions
+ - **Key Administrative Permissions**
     -  let you specify who can manage a KMS key (e.g., enable, disable, rotate, or delete) without giving them full access.
   - **Key Usage Permissions**
     - It  control who can use a KMS key to **encrypt** and **decrypt** data.
